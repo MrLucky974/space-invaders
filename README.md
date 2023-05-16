@@ -13,17 +13,12 @@
 ## How to play
 
 0. Copy or download the project
-
 1. Open a console in the project directory
-
 2. Run this command in the command prompt:
-
 ```
 python main.py
 ```
-
 3. ???
-
 4. Enjoy.
 
 ## Content
