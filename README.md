@@ -2,7 +2,9 @@
 
 ## Description
 
-[EN] : "sp@c3 1vadé 4" is a re-creation of the 1978 arcade game **Space Invaders** using Python. It was made in high school computer class. It uses Pygame and a library called [pygame_gui](https://github.com/MyreMylar/pygame_gui) for interface (main menu).
+[EN] : *sp@c3 1vadé 4* is a re-creation of the 1978 arcade game **Space Invaders** using Python. It was made in high school computer class. It uses Pygame and a library called [pygame_gui](https://github.com/MyreMylar/pygame_gui) for interface (main menu).
+
+[FR] : *sp@c3 1vadé 4* est une re-création du jeu d'arcade de 1978 **Space Invaders** réalisée en utilisant Python. Ce jeu a été développé lors d'un cours d'informatique au lycée. Il utilise Pygame ainsi qu'une bibliothèque appelée [pygame_gui](https://github.com/MyreMylar/pygame_gui) pour l'interface (menu principal).
 
 ## Requirements
 
